@@ -1,0 +1,19 @@
+# Secrets
+.env
+.Renviron
+
+# Venv
+venv/
+
+# Quarto logs
+/.quarto/
+/_site/
+/_book/
+
+# R logs
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+
