@@ -7,9 +7,21 @@ book:
   date: "01/26/2025"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - part: setup.qmd
+      chapters: 
+        - basics.qmd
+        - packages.qmd
+    - part: introduction.qmd
+      chapters:
+        - objects.qmd
+        - notation.qmd
+        - modifying.qmd
     - references.qmd
+  page-footer: 
+    left: "Copyright 2025, Ronald Mego" 
+    right: 
+      - icon: github
+        href: https://github.com/ronaldmego
 
 bibliography: references.bib
 
