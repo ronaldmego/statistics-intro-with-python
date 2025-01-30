@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "Statistics for Excel Users"
+  title: "Intro to Statistics with Python"
   author: "Ronald Mego"
   date: "01/26/2025"
   chapters:
