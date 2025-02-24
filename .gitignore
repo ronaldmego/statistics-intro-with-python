@@ -17,3 +17,11 @@ venv/
 .Ruserdata
 .Renviron
 
+# Pdf
+*.pdf
+
+# Property
+rm-bibliography.md
+
+# Data
+*.csv
